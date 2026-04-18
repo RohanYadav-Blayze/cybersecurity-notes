@@ -1,6 +1,7 @@
 # cybersecurity-notes
 
 Module 1: Introduction to Cyber Security
+
 🔹 What is Cyber Security?
 
 Protecting:
