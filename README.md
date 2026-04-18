@@ -1,6 +1,6 @@
 # cybersecurity-notes
 
-🧠 Module 1: Introduction to Cyber Security
+Module 1: Introduction to Cyber Security
 🔹 What is Cyber Security?
 
 Protecting:
@@ -39,7 +39,7 @@ White Hat → ethical hacker
 Black Hat → malicious hacker
 Grey Hat → in between
 
-🌐 Module 2: Networking Fundamentals
+Module 2: Networking Fundamentals
 
 🔹 What is a Network?
 
@@ -102,7 +102,7 @@ Application
 
 👉 Just remember flow (don’t stress too much now)
 
-💻 Module 3: How The Web Works
+Module 3: How The Web Works
 
 🔹 What happens when you visit a website?
 
